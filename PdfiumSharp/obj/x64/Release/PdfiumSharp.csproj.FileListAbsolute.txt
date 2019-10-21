@@ -1,0 +1,6 @@
+C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp\bin\x64\Release\PdfiumSharp.dll
+C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp\bin\x64\Release\PdfiumSharp.pdb
+C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp\obj\x64\Release\PdfiumSharp.csprojAssemblyReference.cache
+C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp\obj\x64\Release\PdfiumSharp.csproj.CoreCompileInputs.cache
+C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp\obj\x64\Release\PdfiumSharp.dll
+C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp\obj\x64\Release\PdfiumSharp.pdb

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2" engine-version="3.10.0.0" clr-version="4.0.30319.42000" start-time="2019-10-21 09:58:45Z" end-time="2019-10-21 09:58:47Z" duration="2.208298">
+  <command-line><![CDATA["C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe" bin/x64/Release/PdfiumSharp.Test.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1003" name="PdfiumSharp.Test.dll" fullname="C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp.Test\bin\x64\Release\PdfiumSharp.Test.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-10-21 09:58:47Z" end-time="2019-10-21 09:58:47Z" duration="0.356655" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.12.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.18362.0" platform="Win32NT" cwd="C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp.Test" machine-name="KINU02-PC" user="KINU04" user-domain="KINU02-PC" culture="ja-JP" uiculture="ja-JP" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp.Test" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="11156" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1004" name="PdfiumSharp" fullname="PdfiumSharp" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-10-21 09:58:47Z" end-time="2019-10-21 09:58:47Z" duration="0.335193" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestSuite" id="0-1005" name="Test" fullname="PdfiumSharp.Test" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-10-21 09:58:47Z" end-time="2019-10-21 09:58:47Z" duration="0.334716" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <test-suite type="TestFixture" id="0-1000" name="PdfiumTest" fullname="PdfiumSharp.Test.PdfiumTest" classname="PdfiumSharp.Test.PdfiumTest" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-10-21 09:58:47Z" end-time="2019-10-21 09:58:47Z" duration="0.330545" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+          <output><![CDATA[
+Open PDF file: C:\Users\KINU04\Test\PdfiumSharp\PdfiumSharp.Test\bin\x64\Release\test.pdf
+
+Object to Null
+]]></output>
+          <test-case id="0-1001" name="MetaInfoTest" fullname="PdfiumSharp.Test.PdfiumTest.MetaInfoTest" methodname="MetaInfoTest" classname="PdfiumSharp.Test.PdfiumTest" runstate="Runnable" seed="548298740" result="Passed" start-time="2019-10-21 09:58:47Z" end-time="2019-10-21 09:58:47Z" duration="0.118137" asserts="1">
+            <output><![CDATA[
+Number of Pages:1000
+
+Creator: TeX
+
+Title: gcc manual
+
+Author: gcc
+
+Subject: gcc
+
+Keywords: gcc
+
+Producer: pdfTeX-1.40.3
+
+CreationDate: 2019/10/16 18:52:06
+
+ModDate: 2019/10/17 18:52:07
+]]></output>
+          </test-case>
+          <test-case id="0-1002" name="ParserImageTest" fullname="PdfiumSharp.Test.PdfiumTest.ParserImageTest" methodname="ParserImageTest" classname="PdfiumSharp.Test.PdfiumTest" runstate="Runnable" seed="1138880688" result="Passed" start-time="2019-10-21 09:58:47Z" end-time="2019-10-21 09:58:47Z" duration="0.023694" asserts="1">
+            <output><![CDATA[Image type: MemoryBmp
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
